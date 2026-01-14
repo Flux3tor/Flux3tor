@@ -44,8 +44,8 @@ Explores how structure and time-boxing improve focus, planning, and follow-throu
 ---
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Flux3tor&show_icons=true&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=Flux3tor&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=Flux3tor&show_icons=true&theme=transparent&cache_seconds=86400)
+![Streak](https://streak-stats.demolab.com?user=Flux3tor&theme=transparent&cache_seconds=86400)
 
 ---
 
