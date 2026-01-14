@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" />
+</p>
+
 <h2 align="center">Hi, I'm Tush 👋</h2>
 
 <p align="center">
