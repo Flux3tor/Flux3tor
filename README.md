@@ -9,8 +9,6 @@
 
 ---
 
-css
-Copy code
 ┌──────────────────────────────────────────────┐
 │                                              │
 │  I build tools and experiments to understand │
