@@ -23,6 +23,18 @@ Focused on fundamentals, clean design, and learning by shipping.
 
 ---
 
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-beta-ruby-59.vercel.app/api?username=Flux3tor&theme=catppuccin_mocha&hide_border=true&show_icons=true&custom_title=GitHub+Activity" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Flux3tor&theme=catppuccin-mocha&hide_border=true" />
+</p>
+
+---
+
 ### 🚀 Projects
 - **Flux Browser** — UI & performance experiments  
 - **Explain My Code** — structure-driven productivity tool  
