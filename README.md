@@ -1,58 +1,53 @@
 <div align="center">
 
-# Hi, I'm Tush 👋  
-### Developer & Builder  
-
-*Systems • Web • Tools*
+# Tush  
+### Developer · Systems Explorer · Builder
 
 </div>
 
 ---
 
-### 🧠 What I Do
-I build **web tools and experiments** that explore:
-- performance & system behavior  
-- user interaction & UI decisions  
-- clean structure over overengineering  
+### ⚙️ Focus
+I build tools and experiments to understand:
+- how systems behave under real use
+- how UI decisions affect performance and clarity
+- why simple structures often outperform complex ones
 
-I care about fundamentals, learning by shipping, and improving through iteration.
-
----
-
-### 🛠 What I Use
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github)
-
-**Exploration:**  
-Python • Arduino • Electronics • Automation
+I prioritize fundamentals, iteration, and shipping real projects.
 
 ---
 
-### 🚀 Projects
-**🧪 Flux Browser**  
-Experimental browser wrapper focused on UI decisions, performance behavior, and system interaction.  
-`HTML • CSS • JavaScript`
+### 🧱 Tooling
+**Web**  
+HTML · CSS · JavaScript  
 
-**🧠 Explain My Code**  
-Explores how structure and time-boxing improve focus, planning, and follow-through.
+**Workflow**  
+Git · GitHub  
 
-*(More projects on my portfolio ↓)*
+**Exploration**  
+Python · Arduino · Electronics · Automation
 
 ---
 
-### 📈 GitHub Stats
+### 🧪 Selected Work
+**Flux Browser**  
+A browser wrapper built to explore UI tradeoffs, performance behavior, and system interaction.
+
+**Explain My Code**  
+A tool experimenting with structure and time-boxing to improve focus and follow-through.
+
+More → https://tush.is-a.dev
+
+---
+
+### 📊 Activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=Flux3tor&show_icons=true&theme=transparent&cache_seconds=86400)
 ![Streak](https://streak-stats.demolab.com?user=Flux3tor&theme=transparent&cache_seconds=86400)
 
 ---
 
-### 🌐 Links
-- 🌍 Portfolio: https://tush.is-a.dev  
-- 🧑‍💻 GitHub: https://github.com/Flux3tor  
+### 🔗 Links
+Portfolio → https://tush.is-a.dev  
+GitHub → https://github.com/Flux3tor  
 
----
-
-> *Built with intent. Learning by shipping.*
+> Built with intent. Learning by shipping.
