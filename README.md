@@ -31,11 +31,6 @@ Focused on fundamentals, clean design, and learning by shipping.
 
 ---
 
-### 🚀 Projects
-- **Flux Browser** — UI & performance experiments  
-- **Explain My Code** — structure-driven productivity tool  
-- **AlmostWorks** — learning-focused experiments  
-
-More → https://tush.is-a.dev
+More → https://flux3tor.xyz
 
 <sub>Learning by shipping. Building with intent.</sub>
