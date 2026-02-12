@@ -26,7 +26,7 @@ Focused on fundamentals, clean design, and learning by shipping.
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-beta-ruby-59.vercel.app/api?username=Flux3tor&theme=catppuccin_mocha&hide_border=true&show_icons=true&custom_title=GitHub+Activity&title_color=f5c2e7&text_color=cdd6f4&icon_color=f5c2e7&bg_color=1e1e2e" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=24661&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark_dimmed" />
 </p>
 
 ---
