@@ -1,29 +1,6 @@
-<p align="center">
-  <img src="./assets/banner.svg" />
-</p>
+### heyo, i'm flux3tor, a 13 y/o developer from india building software, hardware and weird internet shi-
 
 ---
-
-### 🧠 About
-I build tools and experiments to understand how systems behave —  
-from UI decisions and performance tradeoffs to structure under the hood.
-
-Focused on fundamentals, clean design, and learning by shipping.
-
----
-
-### 🛠 Tech
-<p>
-  <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
-
----
-
-### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=24661&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark_dimmed" />
@@ -31,6 +8,15 @@ Focused on fundamentals, clean design, and learning by shipping.
 
 ---
 
-More → https://flux3tor.xyz
+<p align="center">
+  <a href="https://heatmap.shymike.dev?id=24661&timezone=Asia%2FCalcutta&standalone=true">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=24661&timezone=Asia%2FCalcutta&theme=dark">
+      <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=24661&timezone=Asia%2FCalcutta&theme=light">
+    </picture>
+  </a>
+</p>
 
-<sub>Learning by shipping. Building with intent.</sub>
+---
+
+### Personal Website: https://flux3tor.xyz
