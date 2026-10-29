@@ -1,4 +1,4 @@
-### heyo, i'm flux3tor, a 13 y/o developer from india building software, hardware and weird internet shi-
+### heyo, i'm flux3tor, a 14 y/o developer from india building software, hardware and weird internet shi-
 
 ---
 
